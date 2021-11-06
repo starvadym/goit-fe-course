@@ -1,1 +1,1 @@
-# goit-precourse
+# goit-fe-course
